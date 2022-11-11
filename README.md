@@ -1,6 +1,6 @@
 # Tinder
 
-If you'd like to get v3 protobuf serialization logic add me on DISCORD Néo#9003
+If you'd like to get v3 protobuf serialization logic add me on ***DISCORD*** Néo#9003
 
 Request URL: https://api.gotinder.com/v3/auth/login
 
